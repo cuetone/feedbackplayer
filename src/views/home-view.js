@@ -3,7 +3,7 @@ import { LitElement, html, css } from 'lit-element';
 class HomeView extends LitElement {
   static get styles() {
     return css `
-      h1{color:red}
+      h1{color:yellow}
       h1{text-decoration:underline}
     `;
     
